@@ -24,7 +24,7 @@
 
 ### 🍀 Contest 2: ST001
 - FIND
-- [FIND]([https://github.com](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/FIND.cpp)
+- [FIND](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/FIND.cpp)
 - SORT
 - KTLT_023 : Số lượng phân đoạn với tổng nhỏ
 - Chuỗi đối xứng
