@@ -24,6 +24,7 @@
 
 ### 🍀 Contest 2: ST001
 - FIND
+- [Github] https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/FIND.cpp
 - SORT
 - KTLT_023 : Số lượng phân đoạn với tổng nhỏ
 - Chuỗi đối xứng
