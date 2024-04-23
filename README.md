@@ -14,6 +14,7 @@
 - Bitwise
 ### 📕 Chapter 6: Dynamic Programming
 - Fibonacci
+- LIS
 - LCS
 - Palindrome
 ### 🍀 *Contest 1: Lab 3*
