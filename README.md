@@ -34,3 +34,9 @@
 - MAXNUMBER_HARD
 - TapCon
 - DP_TheCatcher
+
+### *Contest 3: Contest 001 28/04/2024*
+- C(n,k) DP với số lớn
+- LIS số nguyên tố
+- Tìm hàng thứ k
+- BFS loang 
