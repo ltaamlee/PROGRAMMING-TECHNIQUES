@@ -35,8 +35,8 @@
 - TapCon
 - DP_TheCatcher
 
-### *Contest 3: Contest 001 28/04/2024*
+### 🍀 *Contest 3: Contest 001 28/04/2024*
 - C(n,k) DP với số lớn
 - LIS số nguyên tố
-- Tìm hàng thứ k
+- [Tìm hàng thứ k](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/Tim%20hang%20thu%20K.cpp)
 - BFS loang 
