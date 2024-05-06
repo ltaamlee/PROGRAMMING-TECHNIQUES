@@ -39,4 +39,11 @@
 - C(n,k) DP với số lớn
 - LIS số nguyên tố
 - [Tìm hàng thứ k](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/Tim%20hang%20thu%20K.cpp)
-- BFS loang 
+- BFS loang
+
+### 🍀 *Contest 4: Contest 002 05/05/2024*
+- Cấp số cộng
+- Minimize Operations Elements Equal
+- Chuỗi con không chứa "ab"
+- Prefix string
+- Lượt chơi
