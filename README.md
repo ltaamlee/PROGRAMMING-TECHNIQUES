@@ -36,7 +36,7 @@
 - DP_TheCatcher
 
 ### 🍀 *Contest 3: Contest 001 28/04/2024*
-- C(n,k) DP với số lớn
+- [C(n,k) DP với số lớn](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/C(n%2Ck)%20BigNum.cpp)
 - LIS số nguyên tố
 - [Tìm hàng thứ k](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/Tim%20hang%20thu%20K.cpp)
 - BFS loang
