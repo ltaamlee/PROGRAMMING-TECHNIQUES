@@ -49,11 +49,11 @@
 - Lượt chơi
 
 ### 🍀 *Contest 5: Input Contest 07/05/2024*
-- Problem 1: 
-- Problem 2:
-- Problem 3:
-- Problem 4:
-- Problem 5:
-- Problem 6:
-- Problem 7:
-- Problem 8:
+- Problem 1: TEAM
+- Problem 2: Way Too Long Words
+- Problem 3: Magnets
+- Problem 4: Beautiful Matrix
+- Problem 5: Multiplication
+- Problem 6: Red and Blue Point
+- Problem 7: Games with Robots
+- Problem 8: Machine
