@@ -30,7 +30,7 @@
 - [Chuỗi đối xứng](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/DOIXUNG.cpp)
 - [DP_TamGiacSo](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/DP_TamGiacSo.cpp)
 - [KTLT_025 : Số lượng phân đoạn giá trị riêng biệt](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/KTLT_025.cpp)
-- KMBQT
+- [KMBQT](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/KMBQT.cpp)
 - MAXNUMBER_HARD
 - TapCon
 - DP_TheCatcher
@@ -43,17 +43,17 @@
 
 ### 🍀 *Contest 4: Contest 002 05/05/2024*
 - Cấp số cộng
-- Minimize Operations Elements Equal
+- [Minimize Operations Elements Equal](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%204/Minimize%20Operations%20Elements%20Equal.cpp)
 - Chuỗi con không chứa "ab"
-- Prefix string
+- [Prefix string](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%204/Prefix%20String.cpp)
 - Lượt chơi
 
 ### 🍀 *Contest 5: Input Contest 07/05/2024*
-- Problem 1: TEAM
-- Problem 2: Way Too Long Words
-- Problem 3: Magnets
-- Problem 4: Beautiful Matrix
-- Problem 5: Multiplication
-- Problem 6: Red and Blue Point
+- Problem 1: [TEAM](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/TEAM.cpp)
+- Problem 2: [Way Too Long Words](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/Way%20Too%20Long%20Words.cpp)
+- Problem 3: [Magnets](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/Magnets.cpp)
+- Problem 4: [Beautiful Matrix](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/Beautiful%20Matrix.cpp)
+- Problem 5: [Multiplication](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/Multiplication.cpp)
+- Problem 6: [Red and Blue Point](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/Red%20and%20Blue%20Points.cpp)
 - Problem 7: Games with Robots
 - Problem 8: Machine
