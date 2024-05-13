@@ -2,7 +2,7 @@
 using namespace std;
 string MAX(string a, string b){
 	if (a.size()==b.size()) return a>b?a:b;
-	return a.size()<b.size()?a:b;
+	return a.size()>b.size()?a:b;
 }
 int main(){
 	ios_base::sync_with_stdio(NULL); cin.tie(NULL); cout.tie(NULL);
