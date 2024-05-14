@@ -57,3 +57,10 @@
 - Problem 6: [Red and Blue Point](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%205/Red%20and%20Blue%20Points.cpp)
 - Problem 7: Games with Robots
 - Problem 8: Machine
+
+### 🍀 *KTLT Giữa Kỳ 14/05/2024*
+- Bài 1: Chuẩn hoá xâu
+- Bài 2: Max_Row and Min_Col
+- Bài 3: Cộng trừ nhân bignum
+- Bài 4: Dãy con không tăng có tổng lớn nhất
+- Bài 5: Min_Path to X
