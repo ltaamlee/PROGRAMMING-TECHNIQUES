@@ -13,15 +13,15 @@
 - Subset
 - Bitwise
 ### 📕 Chapter 6: Dynamic Programming
-- Fibonacci
+- [Fibonacci](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/FIBO.cpp)
 - [LIS](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/LIS.cpp)
 - LCS
 - Palindrome
 ### 🍀 *Contest 1: Lab 3*
-- EDPC_Job
-- KTLT_019 : Cộng trừ nhân chia
-- KTLT_020 : Maze
-- KTLT_027 : Union2SortedArrray
+- [EDPC_Job](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%201/EDPC_JOB.cpp)
+- KTLT_019 : [Cộng trừ nhân chia](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%201/CTNC.cpp)
+- KTLT_020 : [Maze](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%201/Maze.cpp)
+- KTLT_027 : [Union2SortedArrray](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%201/Union2Array.cpp)
 
 ### 🍀 *Contest 2: ST001*
 - [FIND](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/FIND.cpp)
@@ -31,20 +31,20 @@
 - [DP_TamGiacSo](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/DP_TamGiacSo.cpp)
 - [KTLT_025 : Số lượng phân đoạn giá trị riêng biệt](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/KTLT_025.cpp)
 - [KMBQT](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/KMBQT.cpp)
-- MAXNUMBER_HARD
+- [MAXNUMBER_HARD](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/MAXNUMBER_HARD.cpp)
 - TapCon
-- DP_TheCatcher
+- [DP_TheCatcher](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%202/DP_TheCatcher.cpp)
 
 ### 🍀 *Contest 3: Contest 001 28/04/2024*
 - [C(n,k) DP với số lớn](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/C(n%2Ck)%20BigNum.cpp)
-- LIS số nguyên tố
+- [LIS số nguyên tố](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/LIS_Prime.cpp)
 - [Tìm hàng thứ k](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/Tim%20hang%20thu%20K.cpp)
-- BFS loang
+- [BFS loang](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%203/BFS.cpp)
 
 ### 🍀 *Contest 4: Contest 002 05/05/2024*
 - Cấp số cộng
 - [Minimize Operations Elements Equal](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%204/Minimize%20Operations%20Elements%20Equal.cpp)
-- Chuỗi con không chứa "ab"
+- [Chuỗi con không chứa "ab"](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%204/Not%20String%20AB.cpp)
 - [Prefix string](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/Contest%204/Prefix%20String.cpp)
 - Lượt chơi
 
@@ -59,8 +59,8 @@
 - Problem 8: Machine
 
 ### 🍀 *KTLT Giữa Kỳ 14/05/2024*
-- Bài 1: Chuẩn hoá xâu
+- Bài 1: [Chuẩn hoá xâu](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/GK_KTLT_23_24/bai1.cpp)
 - Bài 2: Max_Row and Min_Col
-- Bài 3: Cộng trừ nhân bignum
-- Bài 4: Dãy con không tăng có tổng lớn nhất
+- Bài 3: [Cộng trừ nhân BigNum](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/GK_KTLT_23_24/bai3.cpp)
+- Bài 4: [Dãy con không tăng có tổng lớn nhất](https://github.com/ltaamlee/PROGRAMMING-TECHNIQUES/blob/main/GK_KTLT_23_24/bai4.cpp)
 - Bài 5: Min_Path to X
