@@ -23,8 +23,8 @@ int main(){
     for (auto &i:a){
     	cin>>i;
     	sum+=i;
-	}
-	cout<<res(a,n,k);
+    }
+    cout<<res(a,n,k);
     return 0;
 }
 /*
