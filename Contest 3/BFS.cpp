@@ -1,16 +1,14 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-	int n,m;
-	cin>>n>>m;
+	ios_base::sync_with_stdio(NULL); cin.tie(0); cout.tie(0);
+	int n,m; cin>>n>>m;
 	vector<string> grid(n);
 	for (int i=0; i<n; ++i){
-		for (int j=0; j<m; ++j){
-			cin>>grid[i][j];
-		}
+		cin>>grid[i];
 	}
-	queue<pair<int,int>> q;
-	vector<vector<int>> d(n,vector<int>(m,-1));
+	vector<vector<int>> d(n, vector<int> (m,-1));
+	queue<pair<int, int>> q;
 	for (int i=0; i<n; ++i){
 		for (int j=0; j<m; ++j){
 			if (grid[i][j]=='2'){
@@ -21,19 +19,19 @@ int main(){
 	}
 	int dx[4]={0,0,-1,1};
 	int dy[4]={-1,1,0,0};
-	while(!q.empty()){
+	while (!q.empty()){
 		pair<int,int> cur=q.front();
-		q.pop();
 		int x=cur.first, y=cur.second;
+		q.pop();
 		for (int k=0; k<4; ++k){
-			int r=x+dx[k];
-			int c=y+dy[k];
-			if (r>=0 && r<n && c>=0 && c<m &&grid[r][c]!='0' &&d[r][c]==-1){
-				d[r][c]=d[x][y]+1;
-				q.push(make_pair(r,c));
+			int u=x+dx[k];
+			int v=y+dy[k];
+			if (u>=0 && u<n && v>=0 && v<m && grid[u][v]!='0'&&d[u][v]==-1){
+				d[u][v]=d[x][y]+1;
+				q.push(make_pair(u,v));
 			}
 		}
-	}
+	} 
 	int ans=0;
 	for (int i=0; i<n; ++i){
 		for (int j=0; j<m; ++j){
@@ -42,8 +40,8 @@ int main(){
 					cout<<-1;
 					return 0;
 				}
+				ans=max(ans,d[i][j]);
 			}
-			ans=max(ans,d[i][j]);
 		}
 	}
 	cout<<ans;
